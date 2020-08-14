@@ -1,3 +1,9 @@
 *{
     outline: 1px solid red;
 }
+
+.banner{
+    background-image: url(//placehold.it/100x200);
+    height: 20vh;
+    width: 100%;
+}
