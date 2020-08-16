@@ -1,10 +1,21 @@
-*{
+/* *{
     outline: 1px solid red;
 }
+*/
+
 
 .banner{
-    background-image: url(//placehold.it/100x200);
+     background-image: url(https://images.unsplash.com/photo-1563260797-cb5cd70254c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80);
     height: 60vh;
-    width: 100%;
+    width: auto;
+    background-position: center;
 }
 
+
+.bg-coral{
+    background-color: rgb(194, 59, 10);
+}
+
+.btn-coral{
+    background-color: rgb(194, 59, 10);
+}
